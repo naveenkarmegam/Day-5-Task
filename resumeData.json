@@ -1,0 +1,41 @@
+{
+    "name": "Naveen",
+    "email": "naveen@email.com",
+    "phone": "9943200713",
+    "address": "103, Middle street, Kuruvadi Post, Ariyalur(DT)",
+    "summary": "junior software engineer with a passion for creating innovative web applications. Skilled in full-stack development, JavaScript, React, Node.js, and relational databases. Strong problem-solving and communication skills.",
+    "education": [
+        {
+            "degree": "Bachelor of Technology of Handloom and Textile Technology",
+            "university": "AICTE",
+            "year": "2015-2019"
+        }
+    ],
+    "experience": [
+        {
+            "position": "junior Software Engineer",
+            "company": "GUVI GEEKS NETWORK Pvt.",
+            "location": "IITM - Research park, Tharamani, Chennai, TamilNadu",
+            "startDate": "September 2023",
+            "endDate": "Present",
+            "responsibilities": [
+                "Led a team of developers in building and maintaining a complex web application.",
+                "Designed and implemented RESTful APIs for communication between frontend and backend.",
+                "Collaborated with product managers to define project requirements and timelines."
+            ]
+        }
+    ],
+    "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "HTML/CSS",
+        "SQL",
+        "Git",
+        "RESTful APIs",
+        "Problem Solving",
+        "Communication"
+    ],
+    "languages": ["English"],
+    "interests": ["Web Development", "Open Source Projects", "Hiking", "Photography"]
+}
